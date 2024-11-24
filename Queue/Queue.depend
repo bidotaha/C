@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1709474794 source:e:\code_blocks  c\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1709310477 e:\code_blocks  c\queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform_types.h"
+
+1709301813 e:\code_blocks  c\queue\platform_types.h
+
+1709475292 source:e:\code_blocks  c\queue\queue.c
+	"Queue.h"
+
